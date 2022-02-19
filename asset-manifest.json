@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cart-page/static/css/main.29894cfc.chunk.css",
-    "main.js": "/cart-page/static/js/main.c6287871.chunk.js",
-    "main.js.map": "/cart-page/static/js/main.c6287871.chunk.js.map",
+    "main.js": "/cart-page/static/js/main.6acc4a7e.chunk.js",
+    "main.js.map": "/cart-page/static/js/main.6acc4a7e.chunk.js.map",
     "runtime-main.js": "/cart-page/static/js/runtime-main.c0e260d7.js",
     "runtime-main.js.map": "/cart-page/static/js/runtime-main.c0e260d7.js.map",
     "static/js/2.7996493d.chunk.js": "/cart-page/static/js/2.7996493d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.728523d4.chunk.js": "/cart-page/static/js/3.728523d4.chunk.js",
     "static/js/3.728523d4.chunk.js.map": "/cart-page/static/js/3.728523d4.chunk.js.map",
     "index.html": "/cart-page/index.html",
-    "precache-manifest.e85776bc7e908b7b4ff2195e04a9ba72.js": "/cart-page/precache-manifest.e85776bc7e908b7b4ff2195e04a9ba72.js",
+    "precache-manifest.cfab966688bc9f32a4a59dbaebceee87.js": "/cart-page/precache-manifest.cfab966688bc9f32a4a59dbaebceee87.js",
     "service-worker.js": "/cart-page/service-worker.js",
     "static/css/main.29894cfc.chunk.css.map": "/cart-page/static/css/main.29894cfc.chunk.css.map",
     "static/js/2.7996493d.chunk.js.LICENSE.txt": "/cart-page/static/js/2.7996493d.chunk.js.LICENSE.txt"
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c0e260d7.js",
     "static/js/2.7996493d.chunk.js",
     "static/css/main.29894cfc.chunk.css",
-    "static/js/main.c6287871.chunk.js"
+    "static/js/main.6acc4a7e.chunk.js"
   ]
 }
