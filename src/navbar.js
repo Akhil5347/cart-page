@@ -8,7 +8,7 @@ const Navbar = () => {
     <>
       <header>
         <div className="continue-shopping">
-         <img src="/images/img.jpg" onclick= "" alt="logo" className="logo"/>
+         <img src="https://raw.githubusercontent.com/Akhil5347/Grocer-Ease/master/Assets/logog.svg" onclick= "" alt="logo" className="logo"/>
          
           <h3>continue shoping</h3>
         </div>
